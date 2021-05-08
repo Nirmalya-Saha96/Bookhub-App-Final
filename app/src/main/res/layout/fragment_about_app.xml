@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF03DAC5"
+    tools:context=".AboutAppFragment">
+
+
+    <TextView
+        android:id="@+id/txtAboutApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABOUT APP"
+        android:layout_marginLeft="40dp"
+        android:textSize="50sp"
+        android:padding="20dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txtAbout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This app is used to display top 10 books of amazon. Created by Nirmalyo Saha and
+        his team. "
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:textColor="#ffffff"
+        android:layout_below="@id/txtAboutApp"
+        android:textStyle="italic"/>
+    <TextView
+        android:id="@+id/txtAbout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="It uses API calling get and post request(JSON) and SQULite DATABASE and Room library
+        to store local Entities"
+        android:textSize="20sp"
+        android:padding="20dp"
+        android:textColor="#ffffff"
+        android:layout_below="@id/txtAbout"
+        android:textStyle="italic"/>
+
+
+</RelativeLayout>
