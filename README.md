@@ -11,3 +11,10 @@ To display top 10 best selling books of Amazon, and their description, to add th
 05. Coroutines, Room Library.
 06. Live data, View model.
 07. Kotlin and XML.
+
+# Demo
+https://www.linkedin.com/posts/nirmalya-saha-625993201_androiddevelopment-activity-6763902711118270465-Phlm
+
+# Contributors
+
+clone this repo or download the zip file run in android studio.
