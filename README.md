@@ -18,3 +18,10 @@ https://www.linkedin.com/posts/nirmalya-saha-625993201_androiddevelopment-activi
 # Contributors
 
 clone this repo or download the zip file run in android studio.
+
+# Things to added 
+01. Make payment API.
+
+# Authors
+
+Nirmalya Saha https://github.com/Nirmalya-Saha96
